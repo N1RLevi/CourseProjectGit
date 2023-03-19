@@ -1,7 +1,6 @@
 {
   "name": "courseproject",
   "version": "1.0.0",
-  "description": "",
   "main": "app.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
@@ -14,5 +13,15 @@
     "express": "^4.18.2",
     "mysql": "^2.18.1",
     "nodemon": "^2.0.21"
-  }
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/N1RLevi/CourseProjectGit.git"
+  },
+  "bugs": {
+    "url": "https://github.com/N1RLevi/CourseProjectGit/issues"
+  },
+  "homepage": "https://github.com/N1RLevi/CourseProjectGit#readme",
+  "description": ""
 }

@@ -1,8 +1,6 @@
 
 // קישור לספריית אקספרס
 const express = require('express');
-// שיכול לקבל אוביקט גיסון 
-const { json } = require('express');
 // קישור לספריית  SQL 
 const mysql=require('mysql');
 
